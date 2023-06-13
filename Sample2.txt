@@ -1,2 +1,4 @@
   This is third line.
   This is fourth line.
+
+This is third line in Sample2.txt file.
